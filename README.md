@@ -1,4 +1,4 @@
-# first-repository--primeiro-reposit-rio
+# first-repository--primeiro-repositório
 
 Para copiar o código em HTML:
 ...
